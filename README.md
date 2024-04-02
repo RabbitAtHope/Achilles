@@ -20,7 +20,7 @@ Each script corresponds to a specific CVE. Just run the script on the command li
 All of these scripts incorporate the [bcolors](https://pypi.org/project/bcolors/) library for command line colors.
 
 ## 📚 Sources used and further reading
-Most of these scripts are my own versions of open-source Proof-Of-Concept (PoC) that is already out there, and I've just modified them to fit into my own scripts and to look pretty.
+Most of these scripts are my own versions of open-source Proof-Of-Concept (PoC) that is already out there, and I've just modified them to fit into my own scripts and to look pretty. [Here is an excellent repository that keeps track of the latest Github PoC](https://github.com/nomi-sec/PoC-in-GitHub).
 
 Some common CVE databases that you can reference for more information on each of these CVEs and vulnerabilities are:
 - [CVEDetails](https://www.cvedetails.com/)
