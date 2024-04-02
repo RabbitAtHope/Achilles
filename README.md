@@ -30,5 +30,5 @@ Some common CVE databases that you can reference for more information on each of
 - [Vulners](https://vulners.com/)
 
 ## ⚠️ Disclaimers
-- Do not use these scripts for illegal activities.
-- Many of these scripts will appear to be attacking a server or performing the exploit they are testing for, and may set off Endpoint Detection and Response (EDR) products. Please ask permission from your systems administrator or security team before attempting to run any of these scripts on servers that belong to other people.
+- Do not use these scripts for illegal activities. These scripts are intended for testing your own servers, ethical penetration testing, and demonstrating common vulnerabilities for educational purposes. Attempting exploits on servers that you do not have permission to attack is illegal and unethical.
+- Many of these scripts will appear to be attacking a server or performing the exploit they are testing for, and may set off Endpoint Detection and Response (EDR) products. Please ask permission from your systems administrator or security team before attempting to run any of these scripts on servers that belong to them.
