@@ -6,7 +6,7 @@
 
 ////
 
-A collection of simple Python test scripts to check if servers are vulnerable to specific common Common Vulnerabilities and Exposures (CVEs), mostly the very well-known and well-documented ones. I use more advanced versions of these scripts frequently to verify scan results and weed out false positives from vulnerability scan reports. These scripts are easy to incorporate into your own scanners, and each script imports all the libraries it needs to perform its testing. I will periodically add more to this repository over time as I gather more.
+A collection of simple Python test scripts to check if your servers are vulnerable to specific common [Common Vulnerabilities and Exposures (CVEs)](https://cve.mitre.org/), mostly the very well-known and well-documented ones. This repository is only intended for your own use. I use more advanced versions of these scripts frequently to verify scan results and weed out false positives from vulnerability scan reports, and they are helpful to show a proof of concept for how an exploit might be done. These scripts are easy to incorporate into your own scanners, and each script imports all the libraries it needs to perform its testing. I will periodically add more to this repository over time as I gather more.
 
 </div>
 
