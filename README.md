@@ -11,6 +11,10 @@ A collection of simple Python test scripts to check if servers are vulnerable to
 </div>
 
 ## ⚙️ How to use
+Install all the necessary libraries in the requirements.txt file:
+
+<pre>pip install -r requirements.txt</pre>
+
 Each script corresponds to a specific CVE. Just run the script on the command line on Windows or Linux and enter the IP address or URL of the server you would like to test.
 
 All of these scripts incorporate the [bcolors](https://pypi.org/project/bcolors/) library for command line colors.
