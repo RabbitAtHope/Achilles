@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>⚔️ Achilles ⚔️</h2>
+  <h2>⚔️ Machete ⚔️</h2>
   <sup>• a collection of useful exploit testing scripts •</sup>
   
   for use with: <b>vulnerability scanners</b>
